@@ -11,5 +11,8 @@ accountcity = "mumbai"
 console.log(accountEmail);
 console.log(accountPassword);
 console.log(accountcity);
-/*use table also
- */
+/*use table method to see values in tablular form
+console.table([accountId,accountPassword,accountEmail,accountcity])
+
+
+*/
