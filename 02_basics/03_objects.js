@@ -1,5 +1,5 @@
 const mysysm = Symbol("key1")// subing symbol to accesss key
-
+//object literals 
 const Juser ={
     name : "Jayesh",
     age : 18,
